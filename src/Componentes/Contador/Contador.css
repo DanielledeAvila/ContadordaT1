@@ -1,0 +1,32 @@
+
+
+h2{
+    color:deeppink;
+    font-size: 3rem; 
+}
+
+
+.boxContador{
+    background-color:pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    height: 70vh;
+}
+
+button{
+    border-radius: 25px;
+    background-color: rgb(163, 195, 241);
+    width: 30%;
+    height: 7vh;
+    cursor:pointer;
+
+}
+
+.boxButton{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50vw;
+}
